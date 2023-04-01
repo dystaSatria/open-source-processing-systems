@@ -5,7 +5,7 @@
 
 | Syntax |      |
 | ----------- | ----------- |
-| ```hash pwd``` | Show current directory |
-| ```linux mkdir *dirName*```  | Make directory *dirName* |
-| ```linux cd *dirName*```  | Go directory to *dirName* |
-| ```linux cd ..```  | Move from the directory |
+| ``` pwd``` | Show current directory |
+| ``` mkdir *dirName*```  | Make directory *dirName* |
+| ``` cd *dirName*```  | Go directory to *dirName* |
+| ``` cd ..```  | Move from the directory |
