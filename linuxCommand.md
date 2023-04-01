@@ -1,5 +1,5 @@
 # Linux Command Cheat Sheet
 
 
-### *  Directory Operations
+### * Directory Operations
 
