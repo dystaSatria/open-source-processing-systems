@@ -5,5 +5,5 @@
 
 | Syntax |      |
 | ----------- | ----------- |
-| pwd | Show current directory |
-| mkdir *dirName*  | Make Make directory *dirName* |
+| ```linux pwd``` | Show current directory |
+| mkdir *dirName*  | Make directory *dirName* |
