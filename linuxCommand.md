@@ -6,4 +6,4 @@
 | Syntax |      |
 | ----------- | ----------- |
 | ```linux pwd``` | Show current directory |
-| mkdir *dirName*  | Make directory *dirName* |
+| ```linux mkdir *dirName*```  | Make directory *dirName* |
