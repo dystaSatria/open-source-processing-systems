@@ -1,4 +1,4 @@
-# Linux Command Cheat Sheet (by dyzzta) :trollface:	
+# Linux Command Cheat Sheet  : (by dyzzta)trollface:	
 
 
 ### Directory Operations
