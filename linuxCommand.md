@@ -30,4 +30,4 @@
 | ``` less file1```  | View and paginate file1 |
 | ``` file file1```  | Get type of file1 |
 | ``` cp file1 file2```  | Copy file1 to file2 |
-| ``` mv file1 file2```  | Show manual for command |
+| ``` mv file1 file2```  | Move file1 to file2 |
