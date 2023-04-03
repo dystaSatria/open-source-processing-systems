@@ -16,6 +16,6 @@
 | ----------- | ----------- |
 | ``` uname -a``` | Show system and kernel |
 | ``` head -n1 /etc/issue```  | Show distribution |
-| ``` cd *dirName*```  | Go directory to *dirName* |
+| ``` date```  | Show system date |
 | ``` cd ..```  | Move from the directory |
 
