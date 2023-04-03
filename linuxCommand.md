@@ -19,5 +19,5 @@
 | ``` date```  | Show system date |
 | ``` uptime```  | Show uptime |
 | ``` whoami```  | Show your username |
-| ``` uptime```  | Show uptime |
+| ``` man command```  | Show manual for command |
 
