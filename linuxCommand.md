@@ -26,7 +26,7 @@
 | Syntax |      |
 | ----------- | ----------- |
 | ``` touch *file1*``` | Create file1|
-| ``` cat file1 file2```  | Show distribution |
+| ``` cat file1 file2```  | Concatenate files and outputn |
 | ``` date```  | Show system date |
 | ``` uptime```  | Show uptime |
 | ``` whoami```  | Show your username |
