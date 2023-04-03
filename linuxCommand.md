@@ -17,5 +17,5 @@
 | ``` uname -a``` | Show system and kernel |
 | ``` head -n1 /etc/issue```  | Show distribution |
 | ``` date```  | Show system date |
-| ``` cd ..```  | Move from the directory |
+| ``` cd ..```  | Show uptime |
 
