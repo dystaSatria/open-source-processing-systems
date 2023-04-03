@@ -32,4 +32,4 @@
 | ``` cp file1 file2```  | Copy file1 to file2 |
 | ``` rm file1```  | Delete file1 |
 | ``` head file1```  | Show first 10 lines of file1 |
-| ``` mv file1 file2```  | Move file1 to file2 |
+| ``` tail file1```  | Last 10 line in file1 |
