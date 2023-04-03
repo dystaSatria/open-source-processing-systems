@@ -11,3 +11,11 @@
 | ``` cd ..```  | Move from the directory |
 
 ### Bash Commands
+
+| Syntax |      |
+| ----------- | ----------- |
+| ``` pwd``` | Show current directory |
+| ``` mkdir *dirName*```  | Make directory *dirName* |
+| ``` cd *dirName*```  | Go directory to *dirName* |
+| ``` cd ..```  | Move from the directory |
+
