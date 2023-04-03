@@ -21,3 +21,4 @@
 | ``` whoami```  | Show your username |
 | ``` man command```  | Show manual for command |
 
+### File Operations
