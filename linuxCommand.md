@@ -22,3 +22,12 @@
 | ``` man command```  | Show manual for command |
 
 ### File Operations
+
+| Syntax |      |
+| ----------- | ----------- |
+| ``` touch *file1*``` | Show system and kernel |
+| ``` head -n1 /etc/issue```  | Show distribution |
+| ``` date```  | Show system date |
+| ``` uptime```  | Show uptime |
+| ``` whoami```  | Show your username |
+| ``` man command```  | Show manual for command |
