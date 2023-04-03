@@ -14,7 +14,7 @@
 
 | Syntax |      |
 | ----------- | ----------- |
-| ``` pwd``` | Show current directory |
+| ``` uname -a``` | Show system and kernel |
 | ``` mkdir *dirName*```  | Make directory *dirName* |
 | ``` cd *dirName*```  | Go directory to *dirName* |
 | ``` cd ..```  | Move from the directory |
