@@ -15,7 +15,7 @@
 | Syntax |      |
 | ----------- | ----------- |
 | ``` uname -a``` | Show system and kernel |
-| ``` mkdir *dirName*```  | Show distribution |
+| ``` head -n1 /etc/issue```  | Show distribution |
 | ``` cd *dirName*```  | Go directory to *dirName* |
 | ``` cd ..```  | Move from the directory |
 
