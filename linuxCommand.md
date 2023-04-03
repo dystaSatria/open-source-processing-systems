@@ -25,7 +25,7 @@
 
 | Syntax |      |
 | ----------- | ----------- |
-| ``` touch *file1*``` | Show system and kernel |
+| ``` touch *file1*``` | Create file1|
 | ``` head -n1 /etc/issue```  | Show distribution |
 | ``` date```  | Show system date |
 | ``` uptime```  | Show uptime |
