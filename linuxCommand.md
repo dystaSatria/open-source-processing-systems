@@ -29,5 +29,5 @@
 | ``` cat file1 file2```  | Concatenate files and outputn |
 | ``` less file1```  | View and paginate file1 |
 | ``` file file1```  | Get type of file1 |
-| ``` whoami```  | Show your username |
+| ``` cp file1 file2```  | Show your username |
 | ``` man command```  | Show manual for command |
