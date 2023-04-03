@@ -27,7 +27,7 @@
 | ----------- | ----------- |
 | ``` touch *file1*``` | Create file1|
 | ``` cat file1 file2```  | Concatenate files and outputn |
-| ``` date```  | Show system date |
+| ``` less file1```  | Show system date |
 | ``` uptime```  | Show uptime |
 | ``` whoami```  | Show your username |
 | ``` man command```  | Show manual for command |
