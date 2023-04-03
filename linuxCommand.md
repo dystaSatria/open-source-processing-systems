@@ -18,4 +18,6 @@
 | ``` head -n1 /etc/issue```  | Show distribution |
 | ``` date```  | Show system date |
 | ``` uptime```  | Show uptime |
+| ``` whoami```  | Show uptime |
+| ``` uptime```  | Show uptime |
 
