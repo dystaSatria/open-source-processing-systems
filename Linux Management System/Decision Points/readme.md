@@ -39,3 +39,50 @@
 - **Ensure Compatibility**: Prioritize backward compatibility for smooth upgrades.
 - **Cost Efficiency**: Balance initial and ongoing costs with IT needs.
 - **Interface Knowledge**: Be aware of interface evolution and its impact on user experience.
+
+________
+
+
+### Poin-Poin Penting dalam Menentukan Sistem Komputer
+
+#### Peran
+- **Penggunaan Desktop**: Ideal untuk aplikasi produktivitas dan menjelajah web dengan antarmuka desktop yang ramah pengguna.
+- **Penggunaan Server**: Terbaik untuk akses dan layanan jarak jauh, biasanya dikelola via CLI untuk mengoptimalkan sumber daya untuk melayani informasi.
+
+#### Fungsi
+- Pertimbangkan kebutuhan perangkat lunak spesifik dan fungsinya.
+- Menilai skala (jumlah mesin) dan keahlian tim pengelola.
+
+#### Siklus Hidup
+- Pentingnya memahami masa hidup layanan dan toleransi risiko.
+- Siklus pemeliharaan dan rilis berdampak pada keputusan lingkungan server perusahaan.
+
+#### Solusi Modern
+- Virtualisasi: Mengurangi kebutuhan ruang fisik dan konsumsi daya, mengotomatiskan tugas, dan meminimalkan intervensi manual.
+- Layanan Cloud: Contoh termasuk Amazon Web Services, Rackspace, dan Microsoft Azure, mengurangi kebutuhan peningkatan perangkat keras fisik.
+
+#### Stabilitas
+- **Beta**: Fitur baru, belum diuji.
+- **Stabil**: Telah diuji dan dapat diandalkan untuk server produksi, kecuali fitur spesifik mengharuskan versi beta.
+
+#### Kompatibilitas
+- Kompatibilitas ke belakang sangat penting untuk meningkatkan sistem operasi tanpa perlu memperbarui aplikasi karena biaya atau keterbatasan ketersediaan.
+
+#### Biaya
+- Pertimbangan termasuk biaya lisensi, ketersediaan perangkat keras, keahlian staf, biaya pemeliharaan, dan kebutuhan masa depan.
+
+#### Evolusi Antarmuka
+- Dari saklar fisik dan papan colok ke kartu punch dan terminal berbasis teks.
+- Transisi ke antarmuka pengguna grafis (GUI) yang dipelopori oleh Xerox PARC dan dipopulerkan oleh Apple.
+
+### Poin-Poin untuk Menghafal dengan Cepat
+- **Desktop vs. Server**: Ketahui peran yang dimaksud—desktop untuk interaksi langsung, server untuk layanan jarak jauh.
+- **Fungsionalitas**: Pahami kebutuhan perangkat lunak dan kapasitasnya.
+- **Kesadaran Siklus Hidup**: Pertahankan siklus pemeliharaan dan rilis untuk efisiensi biaya.
+- **Manfaatkan IT Modern**: Manfaatkan virtualisasi dan layanan cloud untuk skalabilitas dan efisiensi biaya.
+- **Pilihan Stabilitas**: Beta untuk fitur terbaru, stabil untuk keandalan.
+- **Pastikan Kompatibilitas**: Prioritaskan kompatibilitas ke belakang untuk pembaruan yang lancar.
+- **Efisiensi Biaya**: Seimbangkan biaya awal dan berkelanjutan dengan kebutuhan IT.
+- **Pengetahuan Antarmuka**: Sadari evolusi antarmuka dan dampaknya terhadap pengalaman pengguna.
+
+---
