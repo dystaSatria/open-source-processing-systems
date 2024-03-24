@@ -1,8 +1,8 @@
 ### Decision Points in Specifying Computer Systems
 
 #### Role
-- **Desktop Usage**: Ideal for productivity applications and web browsing with a user-friendly desktop interface.
-- **Server Usage**: Best for remote access and services, typically managed via CLI to optimize resources for serving information.
+- **Desktop Usage(GUI)**: Ideal for productivity applications and web browsing with a user-friendly desktop interface.
+- **Server Usage(CLI)**: Best for remote access and services, typically managed via CLI to optimize resources for serving information.
 
 #### Function
 - Consider the specific software requirements and functions.
