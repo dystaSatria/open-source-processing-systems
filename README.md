@@ -33,4 +33,4 @@
 | ``` rm file1```  | Delete file1 |
 | ``` head file1```  | Show first 10 lines of file1 |
 | ``` tail file1```  | Last 10 line in file1 |
-| ``` tail -F file1```  | Output last lines of file1 as it chang|
+| ``` tail -F file1```  | Output last lines of file1 as it change|
