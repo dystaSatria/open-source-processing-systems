@@ -154,3 +154,29 @@ No Rights Reserved (CC0) - Ini adalah versi Creative Commons dari domain publik.
 4. Bash shell'in diğer popüler özellikleri arasında betik yazma, takma adlar ve değişkenler bulunmaktadır.
 5. İstemci, kullanıcılara komutları çalıştırma yeteneği ve sistem hakkında yararlı bilgiler sağlayan terminal arayüzünün önemli bir parçasıdır.
 6. İstemci yapısında genellikle kullanıcı adı, sistem adı ve mevcut dizin hakkında bilgiler bulunur; bu genellikle ~ sembolüyle temsil edilen kullanıcı ev dizinini içerir.
+
+
+## 5.3.1 Arguments
+
+```
+command [options] [arguments]
+```
+
+```
+komut [seçenekler] [argümanlar]
+```
+
+Önemli Noktalar:
+
+1. Bir argüman, bir komutun üzerinde işlem yapılacak bir şeyi belirtmek için kullanılabilir.
+2. Bir dizin adı, ls komutuna bir argüman olarak verildiğinde, o dizinin içeriğini listeleyecektir.
+3. ls komutu ayrıca birden fazla argümanı da kabul edebilir.
+4. ls komutunu birden fazla dizinin içeriğini listelemek için kullanılan örnek bir argümanı birden fazla dizini aynı anda geçirerek gösterebiliriz.
+
+
+Poin-poin penting:
+
+1. Argumen dapat digunakan untuk menentukan sesuatu yang akan dioperasikan oleh perintah.
+2. Jika sebuah direktori diberikan sebagai argumen untuk perintah ls, itu akan menampilkan konten dari direktori tersebut.
+3. Perintah ls juga dapat menerima beberapa argumen sekaligus.
+4. Contoh penggunaan argumen multiple pada perintah ls adalah untuk menampilkan konten dari beberapa direktori sekaligus.
