@@ -20,3 +20,6 @@
 - Genellikle yazılımın mülkiyeti, onu oluşturan kişi veya şirkette kalır. Kullanıcılar yalnızca yazılımı kullanma lisansı alırlar; bu, telif hukukuyla ilgilidir.
 - Lisanslama, açık kaynak yazılımını kapalı kaynak yazılımdan ayıran önemli bir farklılık gösterir. Örneğin, Microsoft Windows'un sahibi Microsoft Corporation'dır ve yazılımın lisansı özel bir yasal belgedir. Linux ise Linus Torvalds tarafından oluşturulmuş ve GNU Genel Kamu Lisansı sürüm 2 (GPLv2) altında dağıtılmaktadır. Bu lisans, kaynak kodunun herkese açık olması ve herkesin değişiklik yapmasına izin verir.
 
+- **Saat membeli perangkat lunak, ada tiga komponen yang berbeda: Kepemilikan, Transfer Uang, dan Lisensi.**
+- **Secara umum, kepemilikan perangkat lunak tetap ada pada orang atau perusahaan yang menciptakannya. Pengguna hanya diberi lisensi untuk menggunakan perangkat lunak; ini adalah masalah hukum hak cipta.**
+- **Lisensi adalah yang membedakan perangkat lunak sumber terbuka dari perangkat lunak sumber tertutup. Misalnya, Microsoft Windows dimiliki oleh Microsoft Corporation dan lisensinya adalah dokumen hukum khusus. Linux, di sisi lain, diciptakan oleh Linus Torvalds dan didistribusikan di bawah GNU General Public License version 2 (GPLv2). Lisensi ini memastikan bahwa kode sumber tersedia untuk siapa pun dan memungkinkan setiap orang untuk membuat perubahan.**
