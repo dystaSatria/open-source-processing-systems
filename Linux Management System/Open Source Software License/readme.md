@@ -134,4 +134,12 @@ No Rights Reserved (CC0) - Ini adalah versi Creative Commons dari domain publik.
 - Perusahaan dapat menambahkan perangkat keras tambahan atau perangkat lunak tertutup untuk dijual bersamaan dengan perangkat lunak gratis.
 - Pemanfaatan perangkat keras dan sistem terbenam yang menggunakan Linux adalah bisnis bernilai miliaran dolar, mencakup berbagai perangkat mulai dari DVR rumah hingga kamera keamanan dan perangkat kebugaran wearable.
 - Perusahaan besar dan kecil kini memiliki tim yang bekerja pada proyek sumber terbuka dan bersaing untuk memengaruhi proyek-proyek yang akan membentuk masa depan industri mereka.
-  
+
+  ## Shell
+
+1. Shell adalah interpreter baris perintah yang menerjemahkan perintah yang dimasukkan oleh pengguna menjadi tindakan yang akan dilakukan oleh sistem operasi.
+2. Lingkungan Linux mendukung berbagai shell, di antaranya yang paling umum digunakan adalah Bash shell.
+3. Bash shell menyediakan fitur-fitur canggih seperti riwayat perintah dan pengeditan inline, yang memungkinkan pengguna untuk dengan mudah mengeksekusi kembali perintah yang sudah dieksekusi sebelumnya atau variasi dari perintah tersebut.
+4. Fitur-fitur populer lainnya dari Bash shell termasuk scripting, alias, dan variabel.
+5. Prompt adalah bagian penting dari antarmuka terminal yang memberikan informasi kepada pengguna tentang kemampuan menjalankan perintah dan memberikan informasi sistem yang berguna.
+6. Struktur prompt umumnya mencakup informasi tentang nama pengguna, nama sistem, dan direktori saat ini, yang sering kali ditandai dengan simbol ~ yang mewakili direktori home pengguna.
