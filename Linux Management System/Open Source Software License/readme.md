@@ -30,3 +30,28 @@
 didirikan pada tahun 1985 oleh Richard Stallman dengan tujuan mempromosikan perangkat lunak bebas. FSF memperjuangkan kebebasan untuk berbagi, mempelajari, dan memodifikasi kode sumber. Mereka mengadvokasi penggunaan lisensi yang memperkuat keterbukaan modifikasi, yang dikenal sebagai copyleft. FSF juga menentang paten perangkat lunak dan bertindak sebagai penjaga untuk organisasi standar. Mereka mengembangkan serangkaian lisensi sendiri, termasuk GNU GPL, untuk memastikan kebebasan penggunaan perangkat lunak. Versi GPLv3 menambahkan klausul spesifik terkait Tivoization, yang tidak disetujui oleh Linus Torvalds.
 
 **Özgür Yazılım Vakfı (FSF), 1985 yılında Richard Stallman tarafından özgür yazılımı teşvik etmek amacıyla kurulmuştur. FSF, kodun paylaşılması, öğrenilmesi ve değiştirilmesi özgürlüğünü savunur. FSF, değişikliklerin açıklığını güçlendiren lisansların kullanımını savunur, bunun adı copyleft olarak bilinir. FSF ayrıca yazılım patentlerine karşı çıkar ve standart organizasyonları gözlemleyerek konuşur. Yazılımın özgür kullanımını sağlamak için GNU GPL gibi bir dizi lisans geliştirmiştir. GPLv3 sürümü, Tivoization ile ilgili belirli bir madde eklemiştir, bu madde Linus Torvalds tarafından onaylanmamıştır.**
+
+
+## OSI
+
+Penting:
+
+1. Open Source Initiative (OSI) didirikan pada tahun 1998 oleh Bruce Perens dan Eric Raymond.
+2. OSI dibentuk karena percaya bahwa Free Software Foundation terlalu terkait dengan politik.
+3. OSI mempromosikan lisensi sumber terbuka yang lebih moderat daripada lisensi FSF.
+4. BSD adalah salah satu jenis lisensi Open Source yang disetujui oleh OSI.
+5. BSD memungkinkan redistribusi sumber dan biner dengan mempertahankan pemberitahuan hak cipta.
+6. Lisensi permissive seperti BSD dan MIT tidak mengandung ketentuan copyleft dan disebut sebagai lisensi perangkat lunak bebas yang memungkinkan.
+7. Istilah Free and Open Source Software (FOSS) digunakan untuk merujuk secara kolektif pada perangkat lunak bebas dan sumber terbuka.
+8. "Free" dapat diartikan sebagai "bebas biaya" atau "bebas dari batasan", sehingga istilah "libre" digunakan untuk merujuk pada yang terakhir.
+
+Türkçe olarak özetleyelim:
+
+1. Open Source Initiative (OSI), Bruce Perens ve Eric Raymond tarafından 1998'de kuruldu.
+2. OSI, Özgür Yazılım Vakfı'nın (FSF) politik olarak çok yüklü olduğuna inanıyordu.
+3. OSI, FSF lisanslarından daha ılımlı olan açık kaynak lisanslarını teşvik eder.
+4. BSD, OSI tarafından onaylanan açık kaynak lisanslarından biridir.
+5. BSD, telif hakkı bildirimlerini koruyarak kaynakları ve ikili dosyaları yeniden dağıtmanıza izin verir.
+6. BSD ve MIT gibi izin veren lisanslar, copyleft hükümlerini içermez ve serbest dağıtımlı yazılım lisansları olarak adlandırılır.
+7. Free and Open Source Software (FOSS) terimi, özgür ve açık kaynaklı yazılımları topluca ifade etmek için kullanılır.
+8. "Free" kelimesi "ücretsiz" veya "sınırsız" olarak yorumlanabilir, bu nedenle "libre" terimi ikincisini ifade etmek için kullanılır.
