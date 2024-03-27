@@ -143,7 +143,8 @@ No Rights Reserved (CC0) - Ini adalah versi Creative Commons dari domain publik.
 4. Fitur-fitur populer lainnya dari Bash shell termasuk scripting, alias, dan variabel.
 5. Prompt adalah bagian penting dari antarmuka terminal yang memberikan informasi kepada pengguna tentang kemampuan menjalankan perintah dan memberikan informasi sistem yang berguna.
 6. Struktur prompt umumnya mencakup informasi tentang nama pengguna, nama sistem, dan direktori saat ini, yang sering kali ditandai dengan simbol ~ yang mewakili direktori home pengguna.
-
+7. The ~ symbol is used as shorthand for the user's home directory. Typically the home directory for the user is under the /home directory and named after the user account name; for example, /home/sysadmin.
+   
 <br>
 <br>
 
