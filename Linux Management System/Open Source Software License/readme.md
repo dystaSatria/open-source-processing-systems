@@ -113,3 +113,25 @@ Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) - Membangun pada lisensi CC B
 Attribution-NonCommercial-NoDerivs (CC BY-NC-ND) - Anda berbagi konten untuk digunakan untuk tujuan non-komersial, tetapi orang tidak boleh mengubah konten tersebut.
 
 No Rights Reserved (CC0) - Ini adalah versi Creative Commons dari domain publik.
+
+
+## Açık Kaynak İş Modelleri
+
+- GPL lisansı, yazılım satışını yasaklamaz, aksine, yazılımın satılma hakkı GPL lisansının bir parçasıdır.
+- Şirketler, ücretsiz yazılımlara değer katarak gelir elde ederler, örneğin destek veya garanti gibi hizmetler sunarlar.
+- Örneğin, Canonical ve Redhat gibi şirketler, Ubuntu gibi Linux dağıtımlarına verdikleri destek hizmetlerinden gelir elde ederler.
+- Birçok açık kaynak projesi önemli bir işletme haline gelmiştir, örneğin, başlangıçta Gerald Combs tarafından geliştirilen Wireshark gibi.
+- Şirketler, ücretsiz yazılımların yanında satılmak üzere ek donanım veya kapalı kaynaklı yazılım ekleyebilirler.
+- Linux kullanan donanım ve gömülü sistemler milyarlarca dolarlık bir iş alanıdır, ev DVR'larından güvenlik kameralarına ve giyilebilir fitness cihazlarına kadar her şeyi içerir.
+- Büyük ve küçük şirketler artık açık kaynak projelerinde çalışan takımlara sahiptir ve endüstrilerinin geleceğini şekillendirecek projeleri etkileme yarışında yer alırlar.
+
+<br><br>
+
+- Lisensi GPL tidak melarang penjualan perangkat lunak, sebaliknya, hak untuk menjual perangkat lunak adalah bagian dari lisensi GPL.
+- Perusahaan menghasilkan pendapatan dengan menambahkan nilai pada perangkat lunak gratis, seperti menyediakan dukungan atau garansi.
+- Misalnya, perusahaan seperti Canonical dan Redhat memperoleh pendapatan dari layanan dukungan yang mereka berikan untuk distribusi Linux seperti Ubuntu.
+- Banyak proyek sumber terbuka telah berkembang menjadi bisnis yang signifikan, seperti Wireshark yang awalnya dikembangkan oleh Gerald Combs.
+- Perusahaan dapat menambahkan perangkat keras tambahan atau perangkat lunak tertutup untuk dijual bersamaan dengan perangkat lunak gratis.
+- Pemanfaatan perangkat keras dan sistem terbenam yang menggunakan Linux adalah bisnis bernilai miliaran dolar, mencakup berbagai perangkat mulai dari DVR rumah hingga kamera keamanan dan perangkat kebugaran wearable.
+- Perusahaan besar dan kecil kini memiliki tim yang bekerja pada proyek sumber terbuka dan bersaing untuk memengaruhi proyek-proyek yang akan membentuk masa depan industri mereka.
+  
