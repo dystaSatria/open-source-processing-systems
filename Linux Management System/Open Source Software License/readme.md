@@ -23,3 +23,10 @@
 - **Saat membeli perangkat lunak, ada tiga komponen yang berbeda: Kepemilikan, Transfer Uang, dan Lisensi.**
 - **Secara umum, kepemilikan perangkat lunak tetap ada pada orang atau perusahaan yang menciptakannya. Pengguna hanya diberi lisensi untuk menggunakan perangkat lunak; ini adalah masalah hukum hak cipta.**
 - **Lisensi adalah yang membedakan perangkat lunak sumber terbuka dari perangkat lunak sumber tertutup. Misalnya, Microsoft Windows dimiliki oleh Microsoft Corporation dan lisensinya adalah dokumen hukum khusus. Linux, di sisi lain, diciptakan oleh Linus Torvalds dan didistribusikan di bawah GNU General Public License version 2 (GPLv2). Lisensi ini memastikan bahwa kode sumber tersedia untuk siapa pun dan memungkinkan setiap orang untuk membuat perubahan.**
+
+
+## Free Software Foundation (FSF) 
+
+didirikan pada tahun 1985 oleh Richard Stallman dengan tujuan mempromosikan perangkat lunak bebas. FSF memperjuangkan kebebasan untuk berbagi, mempelajari, dan memodifikasi kode sumber. Mereka mengadvokasi penggunaan lisensi yang memperkuat keterbukaan modifikasi, yang dikenal sebagai copyleft. FSF juga menentang paten perangkat lunak dan bertindak sebagai penjaga untuk organisasi standar. Mereka mengembangkan serangkaian lisensi sendiri, termasuk GNU GPL, untuk memastikan kebebasan penggunaan perangkat lunak. Versi GPLv3 menambahkan klausul spesifik terkait Tivoization, yang tidak disetujui oleh Linus Torvalds.
+
+**Özgür Yazılım Vakfı (FSF), 1985 yılında Richard Stallman tarafından özgür yazılımı teşvik etmek amacıyla kurulmuştur. FSF, kodun paylaşılması, öğrenilmesi ve değiştirilmesi özgürlüğünü savunur. FSF, değişikliklerin açıklığını güçlendiren lisansların kullanımını savunur, bunun adı copyleft olarak bilinir. FSF ayrıca yazılım patentlerine karşı çıkar ve standart organizasyonları gözlemleyerek konuşur. Yazılımın özgür kullanımını sağlamak için GNU GPL gibi bir dizi lisans geliştirmiştir. GPLv3 sürümü, Tivoization ile ilgili belirli bir madde eklemiştir, bu madde Linus Torvalds tarafından onaylanmamıştır.**
