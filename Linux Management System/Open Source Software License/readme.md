@@ -143,3 +143,13 @@ No Rights Reserved (CC0) - Ini adalah versi Creative Commons dari domain publik.
 4. Fitur-fitur populer lainnya dari Bash shell termasuk scripting, alias, dan variabel.
 5. Prompt adalah bagian penting dari antarmuka terminal yang memberikan informasi kepada pengguna tentang kemampuan menjalankan perintah dan memberikan informasi sistem yang berguna.
 6. Struktur prompt umumnya mencakup informasi tentang nama pengguna, nama sistem, dan direktori saat ini, yang sering kali ditandai dengan simbol ~ yang mewakili direktori home pengguna.
+
+<br>
+<br>
+
+1. Shell, kullanıcı tarafından girilen komutları işletim sistemi tarafından gerçekleştirilecek eylemlere dönüştüren bir komut satırı yorumlayıcısıdır.
+2. Linux ortamı çeşitli shell'leri destekler, en yaygın olarak kullanılanı Bash shell'dir.
+3. Bash shell, komut geçmişi ve satır içi düzenleme gibi gelişmiş özellikler sunar, bu da kullanıcıların daha önce gerçekleştirilmiş komutları veya bunların çeşitlerini kolayca yeniden çalıştırmasını sağlar.
+4. Bash shell'in diğer popüler özellikleri arasında betik yazma, takma adlar ve değişkenler bulunmaktadır.
+5. İstemci, kullanıcılara komutları çalıştırma yeteneği ve sistem hakkında yararlı bilgiler sağlayan terminal arayüzünün önemli bir parçasıdır.
+6. İstemci yapısında genellikle kullanıcı adı, sistem adı ve mevcut dizin hakkında bilgiler bulunur; bu genellikle ~ sembolüyle temsil edilen kullanıcı ev dizinini içerir.
