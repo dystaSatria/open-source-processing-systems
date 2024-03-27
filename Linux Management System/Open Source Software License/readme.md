@@ -13,3 +13,10 @@
 - **Sebagai alternatif, open source mengambil pandangan sentris sumber kode perangkat lunak, memberikan pengguna akses ke sumber kode dan hak untuk memodifikasi dan memperluas program sesuai kebutuhan mereka.**
 - **Linux telah mengadopsi filosofi open source dengan sukses besar, menjadi forum di mana orang dapat mengembangkan dan berbagi ide baru tanpa batasan perangkat keras dan perangkat lunak tertutup.**
 - **Standardisasi antarmuka pemrograman aplikasi (API) memungkinkan program yang ditulis untuk satu sistem operasi UNIX atau Linux dapat diubah (ported) dengan relatif mudah untuk berjalan pada yang lain, meningkatkan interoperabilitas sistem komputer.**
+
+### Açık Kaynak Lisanslaması
+
+- Yazılım satın alırken üç farklı bileşen bulunmaktadır: Mülkiyet, Para Transferi ve Lisanslama.
+- Genellikle yazılımın mülkiyeti, onu oluşturan kişi veya şirkette kalır. Kullanıcılar yalnızca yazılımı kullanma lisansı alırlar; bu, telif hukukuyla ilgilidir.
+- Lisanslama, açık kaynak yazılımını kapalı kaynak yazılımdan ayıran önemli bir farklılık gösterir. Örneğin, Microsoft Windows'un sahibi Microsoft Corporation'dır ve yazılımın lisansı özel bir yasal belgedir. Linux ise Linus Torvalds tarafından oluşturulmuş ve GNU Genel Kamu Lisansı sürüm 2 (GPLv2) altında dağıtılmaktadır. Bu lisans, kaynak kodunun herkese açık olması ve herkesin değişiklik yapmasına izin verir.
+
