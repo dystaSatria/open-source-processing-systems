@@ -55,3 +55,61 @@ Türkçe olarak özetleyelim:
 6. BSD ve MIT gibi izin veren lisanslar, copyleft hükümlerini içermez ve serbest dağıtımlı yazılım lisansları olarak adlandırılır.
 7. Free and Open Source Software (FOSS) terimi, özgür ve açık kaynaklı yazılımları topluca ifade etmek için kullanılır.
 8. "Free" kelimesi "ücretsiz" veya "sınırsız" olarak yorumlanabilir, bu nedenle "libre" terimi ikincisini ifade etmek için kullanılır.
+
+## Creative Common
+
+Turkish:
+
+CC lisansları aşağıdaki koşullardan oluşur ve yaratıcılar eserlerine uygulayabilir:
+
+Attribution (BY) - Tüm CC lisansları, yaratıcının kullanımı onaylamadığını ima etmeksizin yaratıcıya kredi verilmesini gerektirir.
+
+ShareAlike (SA) - Diğerlerine eseri aynı şartlar altında kopyalama, dağıtma, icra etme ve değiştirme izni verir.
+
+NonCommercial (NC) - Diğerlerine eseri ticari amaçlarla olmamak kaydıyla dağıtma, sergileme, icra etme ve değiştirme izni verir.
+
+NoDerivatives (ND) - Diğerlerine sadece orijinal kopyaları dağıtma, sergileme ve icra etme izni verir. Eseri değiştirmek için yaratıcının iznini almalıdırlar.
+
+Bu koşullar daha sonra Creative Commons tarafından sunulan altı ana lisansı oluşturmak için bir araya getirilir:
+
+Attribution (CC BY) - BSD lisansına benzer şekilde, CC BY içeriğini herhangi bir amaçla kullanabilirsiniz ancak telif hakkı sahibine kredi vermelisiniz.
+
+Attribution ShareAlike (CC BY-SA) - Bir Attribution lisansının kopya sol versiyonu. Türetilen eserler aynı lisans altında paylaşılmalıdır, FOSS idealinde olduğu gibi.
+
+Attribution NoDerivs (CC BY-ND) - İçeriği CC-BY ile aynı koşullar altında yeniden dağıtabilirsiniz ancak değiştiremezsiniz.
+
+Attribution-NonCommercial (CC BY-NC) - CC BY gibi, ancak ticari amaçlar için kullanamazsınız.
+
+Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) - CC BY-NC lisansına dayanır ancak değişikliklerinizin aynı lisans altında paylaşılmasını gerektirir.
+
+Attribution-NonCommercial-NoDerivs (CC BY-NC-ND) - İçeriği ticari olmayan amaçlarla paylaşıyorsunuz, ancak insanlar içeriği değiştiremez.
+
+No Rights Reserved (CC0) - Bu, kamu malının Creative Commons sürümüdür.
+
+Indonesian:
+
+Lisensi CC terdiri dari serangkaian kondisi berikut yang dapat diterapkan oleh pencipta pada karyanya:
+
+Attribution (BY) - Semua lisensi CC memerlukan bahwa pencipta harus diberi kredit, tanpa menunjukkan bahwa pencipta menyetujui penggunaan tersebut.
+
+ShareAlike (SA) - Ini memungkinkan orang lain menyalin, mendistribusikan, melakukan, dan memodifikasi karya, asalkan mereka melakukannya dengan persyaratan yang sama.
+
+NonCommercial (NC) - Ini memungkinkan orang lain mendistribusikan, menampilkan, melakukan, dan memodifikasi karya untuk tujuan selain komersial.
+
+NoDerivatives (ND) - Ini memungkinkan orang lain hanya mendistribusikan, menampilkan, dan melakukan salinan asli dari karya. Mereka harus mendapatkan izin dari pencipta untuk memodifikasinya.
+
+Kondisi-kondisi ini kemudian digabungkan untuk membuat enam lisensi utama yang ditawarkan oleh Creative Commons:
+
+Attribution (CC BY) - Mirip dengan lisensi BSD, Anda dapat menggunakan konten CC BY untuk penggunaan apa pun tetapi harus memberikan kredit kepada pemegang hak cipta.
+
+Attribution ShareAlike (CC BY-SA) - Sebuah versi copyleft dari lisensi Attribution. Karya turunan harus dibagikan dengan lisensi yang sama, mirip dengan dalam prinsip Perangkat Lunak Bebas.
+
+Attribution NoDerivs (CC BY-ND) - Anda dapat mendistribusikan kembali konten dengan kondisi yang sama seperti CC-BY tetapi tidak boleh mengubahnya.
+
+Attribution-NonCommercial (CC BY-NC) - Sama seperti CC BY, tetapi Anda tidak boleh menggunakannya untuk tujuan komersial.
+
+Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) - Membangun pada lisensi CC BY-NC tetapi mengharuskan bahwa perubahan Anda dibagikan dengan lisensi yang sama.
+
+Attribution-NonCommercial-NoDerivs (CC BY-NC-ND) - Anda berbagi konten untuk digunakan untuk tujuan non-komersial, tetapi orang tidak boleh mengubah konten tersebut.
+
+No Rights Reserved (CC0) - Ini adalah versi Creative Commons dari domain publik.
