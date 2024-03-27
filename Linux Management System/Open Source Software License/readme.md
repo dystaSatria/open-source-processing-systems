@@ -180,3 +180,6 @@ Poin-poin penting:
 2. Jika sebuah direktori diberikan sebagai argumen untuk perintah ls, itu akan menampilkan konten dari direktori tersebut.
 3. Perintah ls juga dapat menerima beberapa argumen sekaligus.
 4. Contoh penggunaan argumen multiple pada perintah ls adalah untuk menampilkan konten dari beberapa direktori sekaligus.
+
+## Options
+
